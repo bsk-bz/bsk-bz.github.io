@@ -1,0 +1,6 @@
+# Custom static portfolio; retain GitHub Pages without a theme dependency.
+exclude:
+  - qa
+  - scripts
+  - README.md
+  - index-2025.html
