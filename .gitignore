@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+
+# Local QA artifacts and one-time design/migration utilities
+/qa/
+/scripts/check-content.py
+/scripts/render-social.cjs
+__pycache__/
